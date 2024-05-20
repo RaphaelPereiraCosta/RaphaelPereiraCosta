@@ -22,5 +22,5 @@ Sou um desenvolvedor full stack!
 - React-Native ⚛️📱
 
 ## 📫 Contato
-- LinkedIn: linkedin.com/in/raphael-pereira-costa-b2b2b1218
-- Email: raphael_costapereira@hotmail.com
+- !LinkedIn
+- Email: `raphael_costapereira@hotmail.com`
